@@ -1,0 +1,6 @@
+Php.net  https://www.php.net/
+W3School php https://www.w3schools.com/php/
+Comment WordPress utilise php? https://www.wpbeginner.com/glossary/php/
+Reddit les dernières nouvelles de php https://www.reddit.com/r/PHP/
+Concevoir un site web ave Php et MySql https://openclassrooms.com/fr/courses/918836-concevez-votre-site-web-avec-php-et-mysql
+Laravel Framework php https://laravel.com/
